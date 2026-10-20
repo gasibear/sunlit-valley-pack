@@ -1,4 +1,4 @@
-﻿# Sunlit Valley Pack
+# Sunlit Valley Pack
 
 Society: Sunlit Valley 서버 전용 런처가 내려받는 파일 저장소입니다.
 
