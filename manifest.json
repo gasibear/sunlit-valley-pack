@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "packVersion": "4.1.5A-1",
- "generatedAt": "2026-10-20T05:20:35.491Z",
+ "packVersion": "4.1.5A-2",
+ "generatedAt": "2026-10-20T09:32:38.051Z",
  "minecraft": "1.20.1",
  "forge": "47.4.0",
  "exclusiveDirs": [
@@ -46031,6 +46031,13 @@
    "sha1": "0808ae731fec2c634720e82d0eb1b174202df19f",
    "size": 17646309,
    "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/Icon_Journey_1.1.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "mods/IMBlocker-5.6.2.1-forge+1.17-1.20.4.jar",
+   "sha1": "475c6a77ffe748831392641e6db5d572eebe0777",
+   "size": 232400,
+   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/IMBlocker-5.6.2.1-forge%2B1.17-1.20.4.jar",
    "policy": "strict"
   },
   {
