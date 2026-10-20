@@ -1,8 +1,8 @@
-# Sunlit Valley Pack
+﻿# Sunlit Valley Pack
 
 Society: Sunlit Valley 서버 전용 런처가 내려받는 파일 저장소입니다.
 
-- **런처 설치**: [Releases](../../releases)에서 최신 `launcher-v*` 의 `SunlitValley_Setup.exe` 를 받으세요.
+- **런처 설치**: [SunlitValley_Setup.exe 바로 받기](https://github.com/gasibear/sunlit-valley-pack/releases/latest/download/SunlitValley_Setup.exe)
 - `launcher.json` — 서버 주소, 점검 모드, 공지 위치
 - `notice.json` — 런처에 표시되는 공지사항
 - `manifest.json` — 동기화할 파일 목록 (경로, 크기, SHA1, URL)
