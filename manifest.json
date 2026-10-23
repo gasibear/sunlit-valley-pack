@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "packVersion": "4.1.5A-8",
- "generatedAt": "2026-10-23T07:41:14.637Z",
+ "packVersion": "4.1.5A-9",
+ "generatedAt": "2026-10-23T08:26:24.743Z",
  "minecraft": "1.20.1",
  "forge": "47.4.0",
  "exclusiveDirs": [
@@ -47077,10 +47077,10 @@
    "policy": "strict"
   },
   {
-   "path": "mods/sunlit_keyname_fix-1.0.0.jar",
-   "sha1": "66e8bc72f789275d95cafbef32cd6da5d733efd4",
-   "size": 3437,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/sunlit_keyname_fix-1.0.0.jar",
+   "path": "mods/sunlit_keyname_fix-1.1.0.jar",
+   "sha1": "c975675e8a5dcdf354158d92afb14f2185f047e4",
+   "size": 5048,
+   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/sunlit_keyname_fix-1.1.0.jar",
    "policy": "strict"
   },
   {
