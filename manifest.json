@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "packVersion": "4.1.5A-5",
- "generatedAt": "2026-10-23T06:56:26.208Z",
+ "packVersion": "4.1.5A-6",
+ "generatedAt": "2026-10-23T07:04:09.841Z",
  "minecraft": "1.20.1",
  "forge": "47.4.0",
  "exclusiveDirs": [
@@ -6044,8 +6044,8 @@
   },
   {
    "path": "config/resourcepackoverrides.json",
-   "sha1": "857c071c7d4329bf6c0bd7f496b24df25d89aa6e",
-   "size": 1593,
+   "sha1": "760832da567209404540ce3f9a512a07281b5e37",
+   "size": 1531,
    "url": "https://gasibear.github.io/sunlit-valley-pack/files/config/resourcepackoverrides.json",
    "policy": "track"
   },
@@ -54865,13 +54865,6 @@
    "sha1": "8d0b485a9dca77d56921f6a13b70cb9645ffe447",
    "size": 82334,
    "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/Fairy%20Wings%20Elytra.zip",
-   "policy": "strict"
-  },
-  {
-   "path": "resourcepacks/Galmuri7-Font.zip",
-   "sha1": "cd10f0b29e1e14d1aa7bf972a8fa4aba454092d0",
-   "size": 209509,
-   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/Galmuri7-Font.zip",
    "policy": "strict"
   },
   {
