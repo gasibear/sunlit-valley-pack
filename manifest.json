@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "packVersion": "4.1.5A-2",
- "generatedAt": "2026-10-20T09:32:38.051Z",
+ "packVersion": "4.1.5A-3",
+ "generatedAt": "2026-10-23T06:46:09.730Z",
  "minecraft": "1.20.1",
  "forge": "47.4.0",
  "exclusiveDirs": [
@@ -45121,6 +45121,13 @@
    "sha1": "fa834f140bf7dce7b67c29b46cb531f4309d3209",
    "size": 40125,
    "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/caelus-forge-3.2.0%2B1.20.1.jar",
+   "policy": "strict"
+  },
+  {
+   "path": "mods/caramelChat-mc1.20.1-forge-1.2.2.jar",
+   "sha1": "96b6382284fc59259214e840776626fe8ddb93c7",
+   "size": 349040,
+   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/caramelChat-mc1.20.1-forge-1.2.2.jar",
    "policy": "strict"
   },
   {
