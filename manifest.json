@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "packVersion": "4.1.5A-3",
- "generatedAt": "2026-10-23T06:46:09.730Z",
+ "packVersion": "4.1.5A-4",
+ "generatedAt": "2026-10-23T06:50:07.150Z",
  "minecraft": "1.20.1",
  "forge": "47.4.0",
  "exclusiveDirs": [
@@ -45005,13 +45005,6 @@
    "policy": "strict"
   },
   {
-   "path": "mods/Better_Cats_V0.09.zip",
-   "sha1": "500a86d5de382b10118320d3f058f3e1afaa11f2",
-   "size": 1912874,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/Better_Cats_V0.09.zip",
-   "policy": "strict"
-  },
-  {
    "path": "mods/betteradvancedtooltips-1.20.1-1.2.1.jar",
    "sha1": "83b42e4ceb2429ba006aca2410100feef7f0c3f5",
    "size": 49615,
@@ -45264,13 +45257,6 @@
    "policy": "strict"
   },
   {
-   "path": "mods/ComplementaryReimagined_r5.6.1.zip",
-   "sha1": "7fa0a31aa9375ad63e4b13cb1de8d4a9702dd74e",
-   "size": 500696,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/ComplementaryReimagined_r5.6.1.zip",
-   "policy": "strict"
-  },
-  {
    "path": "mods/ConfiguredDefaults-v8.0.4-1.20.1-Forge.jar",
    "sha1": "4ce4e836cc837a9b99dd1a9119260c640a4b5240",
    "size": 42866,
@@ -45369,13 +45355,6 @@
    "policy": "strict"
   },
   {
-   "path": "mods/Create Style for Refined Storage.zip",
-   "sha1": "31bbc546eec354201b6cc99438d1adc4621e1672",
-   "size": 1596551,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/Create_Style_for_Refined_Storage.zip",
-   "policy": "strict"
-  },
-  {
    "path": "mods/create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar",
    "sha1": "bb724b37b191f6bcbe1e6bc395742e50352e8dbc",
    "size": 835363,
@@ -45453,13 +45432,6 @@
    "policy": "strict"
   },
   {
-   "path": "mods/CreateSophBackpacks.zip",
-   "sha1": "0c834a3a13d3d597b6d1273375d2bd049fc3d728",
-   "size": 557473,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/CreateSophBackpacks.zip",
-   "policy": "strict"
-  },
-  {
    "path": "mods/createutilities-0.3.2+1.20.1.jar",
    "sha1": "60eff24cdd0f167643e75f14062845c584245e80",
    "size": 358535,
@@ -45527,13 +45499,6 @@
    "sha1": "10263d3e99807662ff065edce0e470fe62e84b30",
    "size": 573928,
    "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/decorative_blocks-forge-1.20.1-4.1.3.jar",
-   "policy": "strict"
-  },
-  {
-   "path": "mods/DerpWood.zip",
-   "sha1": "0d1afdd2cf10ee0343a183f786764c2d2485d0a7",
-   "size": 835275,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/DerpWood.zip",
    "policy": "strict"
   },
   {
@@ -45737,13 +45702,6 @@
    "sha1": "14987b083e123e885cc356aef156ddb4560bba1d",
    "size": 265906,
    "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/ExtremeSoundMuffler-3.48-forge-1.20.1.jar",
-   "policy": "strict"
-  },
-  {
-   "path": "mods/Fairy Wings Elytra.zip",
-   "sha1": "8d0b485a9dca77d56921f6a13b70cb9645ffe447",
-   "size": 82334,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/Fairy_Wings_Elytra.zip",
    "policy": "strict"
   },
   {
@@ -45971,13 +45929,6 @@
    "policy": "strict"
   },
   {
-   "path": "mods/glow_up-1.5-1.20.1.zip",
-   "sha1": "65db4ed365298c17b8d5ed24ed19d8d8096f034c",
-   "size": 382112,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/glow_up-1.5-1.20.1.zip",
-   "policy": "strict"
-  },
-  {
    "path": "mods/gnetum-2.4.6.jar",
    "sha1": "7754c4af277582133b44c1b6e586ca0488afd2a4",
    "size": 727997,
@@ -46031,13 +45982,6 @@
    "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
    "size": 134551,
    "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/Iceberg-1.20.1-forge-1.1.25.jar",
-   "policy": "strict"
-  },
-  {
-   "path": "mods/Icon Journey 1.1.zip",
-   "sha1": "0808ae731fec2c634720e82d0eb1b174202df19f",
-   "size": 17646309,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/Icon_Journey_1.1.zip",
    "policy": "strict"
   },
   {
@@ -46097,13 +46041,6 @@
    "policy": "strict"
   },
   {
-   "path": "mods/JadeStardewValleyTheme.zip",
-   "sha1": "910fd30a002395fdd365311cb69a64847af98cd1",
-   "size": 15112,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/JadeStardewValleyTheme.zip",
-   "policy": "strict"
-  },
-  {
    "path": "mods/jeed-1.20-2.2.5.jar",
    "sha1": "9f6b1884ad8b81c0e8796daf7871eeb54271f27b",
    "size": 159288,
@@ -46122,13 +46059,6 @@
    "sha1": "f2be323d589b953eaa303f8b74913831a5a9b77b",
    "size": 69022,
    "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/jmi-forge-1.20.1-0.14-48.jar",
-   "policy": "strict"
-  },
-  {
-   "path": "mods/JourneyMap Extended Mob Icons v2.0.zip",
-   "sha1": "3728f18a6f53d6b4e8c023a77d3342b4e373a5ab",
-   "size": 65610,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/JourneyMap_Extended_Mob_Icons_v2.0.zip",
    "policy": "strict"
   },
   {
@@ -46335,13 +46265,6 @@
    "policy": "strict"
   },
   {
-   "path": "mods/longwing_nuker.zip",
-   "sha1": "84dc12b865fc1055eac46936bd9f982276afbf57",
-   "size": 7189,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/longwing_nuker.zip",
-   "policy": "strict"
-  },
-  {
    "path": "mods/Longwings-v0.9.5-1.20.1-Forge.jar",
    "sha1": "67b27eb2b422ef518ade23e97922c4edfbd461cb",
    "size": 1924774,
@@ -46370,13 +46293,6 @@
    "policy": "strict"
   },
   {
-   "path": "mods/Lopy-Create-Pipez.zip",
-   "sha1": "beb8333c34b897f1e5dfd0a607753ac73d66e4b9",
-   "size": 107979,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/Lopy-Create-Pipez.zip",
-   "policy": "strict"
-  },
-  {
    "path": "mods/MaxEnchantX-1.20.X-1.3-Forge.jar",
    "sha1": "564bbddb1e48ad1cb4398218128d6b05bcd92c11",
    "size": 32212,
@@ -46402,13 +46318,6 @@
    "sha1": "ff01aa718b71249012c41d9926d3fd2982809fdb",
    "size": 61987,
    "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/midnightlib-forge-1.9.2%2B1.20.1.jar",
-   "policy": "strict"
-  },
-  {
-   "path": "mods/MobCrates_1.20.1_v1.zip",
-   "sha1": "fe2dc9248975cf86cbf9b6fbdfc1aa85bd8b2977",
-   "size": 391478,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/MobCrates_1.20.1_v1.zip",
    "policy": "strict"
   },
   {
@@ -47063,13 +46972,6 @@
    "policy": "strict"
   },
   {
-   "path": "mods/SocietyCoins.zip",
-   "sha1": "f0cfdb37f7bb81ae444c2ce93795742edeedacec",
-   "size": 10669,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/SocietyCoins.zip",
-   "policy": "strict"
-  },
-  {
    "path": "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
    "sha1": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9",
    "size": 511601,
@@ -47151,13 +47053,6 @@
    "sha1": "6c9d80bb6faeec33402a03ad02ce28e50fcf8253",
    "size": 1339256,
    "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/stardew_fishing-3.7-1.20.1.jar",
-   "policy": "strict"
-  },
-  {
-   "path": "mods/Stardew_plaques v1.0.zip",
-   "sha1": "17b37b8c48bc8554e7bfc8a5dfec27eabe8e3d18",
-   "size": 5552,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/Stardew_plaques_v1.0.zip",
    "policy": "strict"
   },
   {
@@ -47319,13 +47214,6 @@
    "sha1": "8810bc55f7603ec7a6317c1b7e288b80ff313e1e",
    "size": 5047780,
    "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/unusualfishmod-1.1.10.jar",
-   "policy": "strict"
-  },
-  {
-   "path": "mods/updated_aquaculture-1.1.zip",
-   "sha1": "1c153018918de3d75417da9188b161ae850ab449",
-   "size": 705425,
-   "url": "https://github.com/gasibear/sunlit-valley-pack/releases/download/mods/updated_aquaculture-1.1.zip",
    "policy": "strict"
   },
   {
@@ -54945,10 +54833,115 @@
    "policy": "strict"
   },
   {
+   "path": "resourcepacks/Better_Cats_V0.09.zip",
+   "sha1": "500a86d5de382b10118320d3f058f3e1afaa11f2",
+   "size": 1912874,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/Better_Cats_V0.09.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/Create Style for Refined Storage.zip",
+   "sha1": "31bbc546eec354201b6cc99438d1adc4621e1672",
+   "size": 1596551,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/Create%20Style%20for%20Refined%20Storage.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/CreateSophisticatedBackpacks.zip",
+   "sha1": "0c834a3a13d3d597b6d1273375d2bd049fc3d728",
+   "size": 557473,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/CreateSophisticatedBackpacks.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/DerpWood.zip",
+   "sha1": "0d1afdd2cf10ee0343a183f786764c2d2485d0a7",
+   "size": 835275,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/DerpWood.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/Fairy Wings Elytra.zip",
+   "sha1": "8d0b485a9dca77d56921f6a13b70cb9645ffe447",
+   "size": 82334,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/Fairy%20Wings%20Elytra.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/glow_up-1.5-1.20.1.zip",
+   "sha1": "65db4ed365298c17b8d5ed24ed19d8d8096f034c",
+   "size": 382112,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/glow_up-1.5-1.20.1.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/Icon Journey 1.1.zip",
+   "sha1": "0808ae731fec2c634720e82d0eb1b174202df19f",
+   "size": 17646309,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/Icon%20Journey%201.1.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/JadeStardewValleyTheme.zip",
+   "sha1": "910fd30a002395fdd365311cb69a64847af98cd1",
+   "size": 15112,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/JadeStardewValleyTheme.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/JourneyMap Extended Mob Icons v2.0.zip",
+   "sha1": "3728f18a6f53d6b4e8c023a77d3342b4e373a5ab",
+   "size": 65610,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/JourneyMap%20Extended%20Mob%20Icons%20v2.0.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/longwing_nuker.zip",
+   "sha1": "84dc12b865fc1055eac46936bd9f982276afbf57",
+   "size": 7189,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/longwing_nuker.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/Lopy-Create-Pipez.zip",
+   "sha1": "beb8333c34b897f1e5dfd0a607753ac73d66e4b9",
+   "size": 107979,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/Lopy-Create-Pipez.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/MobCrates_1.20.1_v1.zip",
+   "sha1": "fe2dc9248975cf86cbf9b6fbdfc1aa85bd8b2977",
+   "size": 391478,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/MobCrates_1.20.1_v1.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/SocietyCoins.zip",
+   "sha1": "f0cfdb37f7bb81ae444c2ce93795742edeedacec",
+   "size": 10669,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/SocietyCoins.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/Stardew_plaques v1.0.zip",
+   "sha1": "17b37b8c48bc8554e7bfc8a5dfec27eabe8e3d18",
+   "size": 5552,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/Stardew_plaques%20v1.0.zip",
+   "policy": "strict"
+  },
+  {
    "path": "resourcepacks/sunlit_overrides.zip",
    "sha1": "4107c1aab7549cf473e621a9bc92c3606c80ac09",
    "size": 68449,
    "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/sunlit_overrides.zip",
+   "policy": "strict"
+  },
+  {
+   "path": "resourcepacks/updated_aquaculture-1.1.zip",
+   "sha1": "1c153018918de3d75417da9188b161ae850ab449",
+   "size": 705425,
+   "url": "https://gasibear.github.io/sunlit-valley-pack/files/resourcepacks/updated_aquaculture-1.1.zip",
    "policy": "strict"
   },
   {
